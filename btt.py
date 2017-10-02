@@ -60,7 +60,7 @@ def main():
     graph = facebook.GraphAPI(acess_token, version=2.10)
 
 
-    """ Go gain an extension period, use the below  """
+    """ To gain an extension period, use the below  """
     # id_app = "" ## Enter App id here
     # secret = "" ## secrey key goes here
     #extended_token = graph.extend_access_token(app_id=id_app, app_secret=secret)
