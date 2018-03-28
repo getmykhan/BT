@@ -57,7 +57,7 @@ def main():
 
     """ Access token from the graph api explorer """
     # Access token to be changed or an error will be thrown
-    acess_token = 'rVVZCMwlDKr4T2bwmallfCXToZCx8VR8LkFM9eQiacVVcwTdm4DB5Im1ykatuuUxBZChc4WLAlXR1R0ZBCMKd488Yh1q8RZCo9PwEhvD2kl4WblZACudH0dxkPBwHS5FBFnS0f55oZAAEvZCeZCgZDZD'
+    acess_token = 'rVVZCMwlDKr4T2bwmallwTRZCo9PwEhvD2kl4Wbldm4DB5Im1ZBCMKd488Yh1q8ZACudH0dxkPBwHS5FBFnS0f55oZAAEvZCeZCgZDZD'
     graph = facebook.GraphAPI(acess_token, version=2.10)
 
 
